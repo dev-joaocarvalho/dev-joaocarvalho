@@ -2,12 +2,6 @@
 # <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> João Marcos here!  <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Developer.gif" width="40px">
 
 - 🎓 &nbsp; Estudante de Engenharia na [UnB](https://www.unb.br/).
-## 📊 Status
-
-
-<section align='center'>
-<a href="https://github.com/dev-joaocarvalho"><img height ="" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-joaocarvalho&theme=cobalt&hide_border=true)" alt="dev-joaocarvalho's github stats" /></a>
-</section>
 
 ## 🛠️ Languages and tools
 <div>
