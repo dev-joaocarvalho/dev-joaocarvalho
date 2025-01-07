@@ -1,5 +1,23 @@
 # <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> João Marcos here!  
-🎓 Estudante de Engenharia na [UnB](https://www.unb.br/).  
+🎓 Estudante de Engenharia de Software na [UnB](https://www.unb.br/) e Ciência da Computação no [IESB](https://www.iesb.br/).  
+
+🎯 **Objetivo profissional:**  
+Buscando oportunidades na área de desenvolvimento de software e ciência da computação.  
+
+💡 **Interesses em tecnologia:**  
+Entusiasta em aprendizado de máquina, desenvolvimento back-end e algoritmos.  
+
+🧩 **Projetos pessoais:**  
+Atualmente desenvolvendo projetos em Python e C focados em análise de dados e automação.  
+
+📚 **Habilidades em desenvolvimento:**  
+Conhecimento em linguagens como Python, C, Java, além de bancos de dados MySQL e PostgreSQL.  
+
+🌟 **Soft Skills:**  
+Proativo, curioso e em constante busca por aprendizado.  
+
+🏋️‍♂️ **Fora da tecnologia:**  
+Apaixonado por esportes e sempre em busca de evolução pessoal.  
 
 ---
 
