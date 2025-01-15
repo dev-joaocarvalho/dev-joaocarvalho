@@ -1,9 +1,5 @@
 # <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> João Marcos here!  
 
-🎓 **Formação:**  
-Primeiro Semestre em Engenharia de Software na [UnB](https://www.unb.br/)   
-Quinto Semestre em Ciência da Computação no [IESB](https://www.iesb.br/).  
-
 🎯 **Objetivo profissional:**  
 Buscando oportunidades na área de desenvolvimento de software e ciência da computação.  
 
