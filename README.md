@@ -22,8 +22,7 @@ Apaixonado por esportes e sempre em busca de evolução pessoal.
 
 ## 🛠️ Languages and tools
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&theme=react&include_all_commits=true&count_private=true&card_width=400px&text_bold=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&langs_count=8&theme=react&card_width=400px" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&langs_count=8&theme=react&card_width=400px" />
 </div>
 
 <div align="center"><br>
