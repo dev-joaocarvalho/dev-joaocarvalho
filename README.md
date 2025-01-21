@@ -1,29 +1,17 @@
-# <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> João Marcos here!  
+# <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hi there, João Marcos here!  
 
-🎯 **Objetivo profissional:**  
-Buscando oportunidades na área de desenvolvimento de software e ciência da computação.  
+I'm a **Software Engineering** and **Computer Science** student based in Brasília, Brazil.  
 
-💡 **Interesses em tecnologia:**  
-Entusiasta em aprendizado de máquina, desenvolvimento back-end e algoritmos.  
-
-🧩 **Projetos pessoais:**  
-Atualmente desenvolvendo projetos em Python e C focados em análise de dados e automação.  
-
-📚 **Habilidades em desenvolvimento:**  
-Conhecimento em linguagens como Python, C, Java, além de bancos de dados MySQL e PostgreSQL.  
-
-🌟 **Soft Skills:**  
-Proativo, curioso e em constante busca por aprendizado.  
-
-🏋️‍♂️ **Fora da tecnologia:**  
-Apaixonado por esportes e sempre em busca de evolução pessoal.  
+I have a deep passion for **technology**, **programming**, and **data analysis**. My main objectives are to:  
+- Secure a **technology internship** or a **competitive IT position** through examinations.  
+- Continuously learning and growing
 
 ---
 
-## 🛠️ Languages and tools
+## 🛠️ **Languages and Tools**  
 <div align="center">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&langs_count=8&theme=react&card_width=400px" />
-</div>
+</div>  
 
 <div align="center"><br>
   <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -33,17 +21,25 @@ Apaixonado por esportes e sempre em busca de evolução pessoal.
   <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> 
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-</div>
+</div>  
+
+<div align="center">  
+
+**Technologies:**  
+Git, Docker, REST APIs  
+
+**Focus Areas:**  
+Machine Learning, Software Development, Problem Solving  
+</div>  
 
 ---
 
-## <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="23px">  How to reach me:
+## <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="23px"> **How to Reach Me**  
 <div align="center">
   <a href="mailto:dev.joaocarvalho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/joaom-s-carvalho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/jm.carv4lho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
-
+</div>  
 
 <!--
 **dev-joaocarvalho/dev-joaocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
