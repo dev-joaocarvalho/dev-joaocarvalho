@@ -6,7 +6,7 @@ I have a deep passion for **technology**, **programming**, and **data analysis**
 - Secure a **technology internship** or a **competitive IT position** through examinations.  
 - Continuously learning and growing
 
----
+
 
 ## 🛠️ **Languages and Tools**  
 <div align="center">
@@ -32,7 +32,7 @@ Git, Docker, REST APIs
 Machine Learning, Software Development, Problem Solving  
 </div>  
 
----
+
 
 ## <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Earth.gif" width="23px"> **How to Reach Me**  
 <div align="center">
