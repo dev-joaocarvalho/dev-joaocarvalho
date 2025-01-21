@@ -25,6 +25,7 @@ I have a deep passion for **technology**, **programming**, and **data analysis**
 
 <div align="center">  
 
+
 **Technologies:**  
 Git, Docker, REST APIs  
 
