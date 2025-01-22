@@ -27,7 +27,7 @@ I have a deep passion for **technology**, **programming**, and **data analysis**
 
 
 **Technologies:**  
-Git, Docker, REST APIs  
+Git, Eclipse, Visual Studio Code
 
 **Focus Areas:**  
 Machine Learning, Software Development, Problem Solving  
