@@ -1,6 +1,6 @@
 # <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hi there, João Marcos here!  
 
-I'm a **Software Engineering** and **Computer Science** student based in Brasília, Brazil.  
+I'm a **Software Engineering** student based in Brasília, Brazil.  
 
 I have a deep passion for **technology**, **programming**, and **data analysis**. My main objectives are to:  
 - Secure a **technology internship** or a **competitive IT position** through examinations.  
