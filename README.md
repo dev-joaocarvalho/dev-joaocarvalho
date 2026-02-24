@@ -9,10 +9,6 @@ I have a deep passion for **technology**, **programming**, and **data analysis**
 
 
 ## 🛠️ **Languages and Tools**  
-<div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&langs_count=8&theme=react&card_width=400px" />
-</div>  
-
 <div align="center"><br>
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
