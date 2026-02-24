@@ -1,6 +1,6 @@
 # <img src="https://github.com/Shiv-sharma-111/Shiv-sharma-111/blob/master/Assets/Hi.gif" width="29px"> Hi there, João Marcos here!  
 
-I'm a **Software Engineering** student based in Brasília, Brazil.  
+I'm a **Software Engineering** student at UnB.  
 
 I have a deep passion for **technology**, **programming**, and **data analysis**. My main objectives are to:  
 - Secure a **technology internship** or a **competitive IT position** through examinations.  
@@ -14,11 +14,9 @@ I have a deep passion for **technology**, **programming**, and **data analysis**
 </div>  
 
 <div align="center"><br>
-  <img alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg"> 
   <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>  
@@ -27,10 +25,10 @@ I have a deep passion for **technology**, **programming**, and **data analysis**
 
 
 **Technologies:**  
-Git, Eclipse, Visual Studio Code
+Git, Oracle, MySQL, Visual Studio Code
 
 **Focus Areas:**  
-Machine Learning, Software Development, Problem Solving  
+Full Stack, Machine Learning, Software Development, Problem Solving  
 </div>  
 
 
