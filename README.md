@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=540&lines=Estudante+de+Eng.+Software+%40+UnB+%F0%9F%8E%93;Estagiário+de+ML+%40+MDS+%7C+Brasília%2C+BR;Aprendendo+todo+dia%2C+entregando+valor+real.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Estudante+de+Eng.+Software+%40+UnB+%F0%9F%8E%93;Estagiário+de+Dados+%26+IA+%40+MDS+%7C+Brasília;Dashboards%2C+scripts%2C+análise+e+impacto+público.)
 
 </div>
 
@@ -23,12 +23,12 @@ $ whoami
 
 $ cat profile.json
 {
-  "name":       "João Carvalho",
-  "curso":      "Engenharia de Software — UnB 🎓",
-  "estagio":    "Machine Learning @ MDS — Ministério do Desenvolvimento Social 🏛️",
-  "location":   "Brasília, DF — Brasil 🇧🇷",
-  "interests":  ["Machine Learning", "Software Development", "Problem Solving"],
-  "status":     "🟣 estudando, codando e crescendo"
+  "name":     "João Carvalho",
+  "curso":    "Engenharia de Software — UnB 🎓",
+  "estagio":  "Dados & IA — SINAPSE / MDS 🏛️",
+  "location": "Brasília, DF — Brasil 🇧🇷",
+  "foco":     ["Análise de Dados", "Dashboards", "Scripts", "IA Aplicada"],
+  "status":   "🟣 aprendendo e entregando valor no setor público"
 }
 ```
 
@@ -38,21 +38,22 @@ $ cat profile.json
 
 ```python
 joao = {
-    "fase":    "estudante de Eng. Software na UnB",
-    "agora":   "estagiário de ML no setor público federal",
-    "missão":  "aprender rápido e gerar impacto real com dados",
-    "próximo": "me tornar um engenheiro completo — código + ML + sistemas"
+    "graduação":  "Engenharia de Software na UnB",
+    "estágio":    "SINAPSE — Secretaria Nacional de Integração de Plataformas Sociais",
+    "dia_a_dia":  [
+        "consolidar bases de dados",
+        "montar dashboards e relatórios",
+        "desenvolver scripts de automação",
+        "análise de dados e IA aplicada",
+        "participar de reuniões de planejamento"
+    ],
+    "propósito":  "tecnologia pública que chega em quem precisa"
 }
-
-while joao["fase"] == "estudante":
-    estudar()
-    construir()
-    evoluir()
 ```
 
-> Sou estudante da **UnB** apaixonado por tecnologia e dados. No estágio no **MDS**,
-> aplico ML em projetos que impactam políticas públicas e a vida de brasileiros.
-> Ainda no começo da jornada — mas com muito código pela frente.
+> Estudante da **UnB** estagiando na **SINAPSE/MDS** — onde ajudo a transformar dados
+> do governo em dashboards, relatórios e análises que apoiam decisões de política pública.
+> Ainda no início da carreira, mas já com código rodando em produção no setor federal.
 
 ---
 
@@ -65,31 +66,38 @@ while joao["fase"] == "estudante":
 ![Bash](https://img.shields.io/badge/Bash-%236d28d9?style=flat-square&logo=gnubash&logoColor=e9d5ff)
 ![C](https://img.shields.io/badge/C-%236d28d9?style=flat-square&logo=c&logoColor=e9d5ff)
 
-**[ ml & dados ]**
+**[ dados & análise ]**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%234f46e5?style=flat-square&logo=scikitlearn&logoColor=e0e7ff)
 ![Pandas](https://img.shields.io/badge/Pandas-%234f46e5?style=flat-square&logo=pandas&logoColor=e0e7ff)
 ![NumPy](https://img.shields.io/badge/NumPy-%234f46e5?style=flat-square&logo=numpy&logoColor=e0e7ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%234f46e5?style=flat-square&logo=plotly&logoColor=e0e7ff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%234f46e5?style=flat-square&logo=jupyter&logoColor=e0e7ff)
+![Power BI](https://img.shields.io/badge/Power%20BI-%234f46e5?style=flat-square&logo=powerbi&logoColor=e0e7ff)
 
-**[ engenharia de software ]**
+**[ ia & ml ]**
 
-![Git](https://img.shields.io/badge/Git-%23be185d?style=flat-square&logo=git&logoColor=fce7f3)
-![GitHub](https://img.shields.io/badge/GitHub-%23be185d?style=flat-square&logo=github&logoColor=fce7f3)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23be185d?style=flat-square&logo=visualstudiocode&logoColor=fce7f3)
-![Linux](https://img.shields.io/badge/Linux-%23be185d?style=flat-square&logo=linux&logoColor=fce7f3)
-![Docker](https://img.shields.io/badge/Docker-%23be185d?style=flat-square&logo=docker&logoColor=fce7f3)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23be185d?style=flat-square&logo=scikitlearn&logoColor=fce7f3)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-%23be185d?style=flat-square&logo=huggingface&logoColor=fce7f3)
 
-**[ aprendendo agora ]**
+**[ engenharia ]**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-%230f172a?style=flat-square&logo=fastapi&logoColor=818cf8)
-![PyTorch](https://img.shields.io/badge/PyTorch-%230f172a?style=flat-square&logo=pytorch&logoColor=818cf8)
-![React](https://img.shields.io/badge/React-%230f172a?style=flat-square&logo=react&logoColor=818cf8)
+![Git](https://img.shields.io/badge/Git-%230f172a?style=flat-square&logo=git&logoColor=818cf8)
+![GitHub](https://img.shields.io/badge/GitHub-%230f172a?style=flat-square&logo=github&logoColor=818cf8)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230f172a?style=flat-square&logo=visualstudiocode&logoColor=818cf8)
+![Linux](https://img.shields.io/badge/Linux-%230f172a?style=flat-square&logo=linux&logoColor=818cf8)
+![Docker](https://img.shields.io/badge/Docker-%230f172a?style=flat-square&logo=docker&logoColor=818cf8)
 
 ---
 
 ### `> github --stats`
 
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&bg_color=0a0a1a&border_color=6d28d9&icon_color=a855f7&title_color=c084fc&text_color=a5b4fc&hide_border=false&count_private=true&theme=tokyonight" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&bg_color=0a0a1a&border_color=6d28d9&title_color=c084fc&text_color=a5b4fc&hide_border=false&theme=tokyonight" />
+
+</div>
 
 <div align="center">
 
@@ -113,6 +121,6 @@ while joao["fase"] == "estudante":
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:8b00cc,50:3d0080,100:0a0a1a&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b00cc,50:3d0080,100:0a0a1a&height=100&section=footer)
 
 </div>
