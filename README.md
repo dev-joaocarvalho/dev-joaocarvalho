@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,40:1a0550,70:3d0080,100:8b00cc&height=200&text=João%20Carvalho&fontSize=48&fontColor=c084fc&fontAlignY=40&desc=%3E_%20Engenharia%20de%20Software%20%7C%20Software%20Development%20%7C%20Problem%20Solving&descSize=15&descFontColor=818cf8&descAlignY=60&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,40:1a0550,70:3d0080,100:8b00cc&height=200&text=João%20Carvalho&fontSize=48&fontColor=c084fc&fontAlignY=40&desc=%3E_%20Engenharia%20de%20Software%20%7C%20Problem%20Solving&descSize=15&descFontColor=818cf8&descAlignY=60&animation=twinkling)
 
 </div>
 
