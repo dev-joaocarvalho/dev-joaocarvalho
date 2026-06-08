@@ -40,6 +40,7 @@ joao = {
 
 ![Python](https://img.shields.io/badge/Python-%236d28d9?style=flat-square&logo=python&logoColor=e9d5ff)
 ![SQL](https://img.shields.io/badge/SQL-%236d28d9?style=flat-square&logo=postgresql&logoColor=e9d5ff)
+![Java](https://img.shields.io/badge/Java-%236d28d9?style=flat-square&logo=java&logoColor=e9d5ff)
 ![C](https://img.shields.io/badge/C-%236d28d9?style=flat-square&logo=c&logoColor=e9d5ff)
 
 **[ dados & análise ]**
