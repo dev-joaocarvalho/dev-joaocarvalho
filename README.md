@@ -1,6 +1,6 @@
 <!-- ════════════════════════════════════════════════════════
      GitHub Profile — João Carvalho (@dev-joaocarvalho)
-     Paleta: Azul → Roxo → Rosa
+     Paleta: Azul — tema GitHub dark
 ════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -38,26 +38,26 @@ joao = {
 
 **[ linguagens ]**
 
-![Python](https://img.shields.io/badge/Python-%236d28d9?style=flat-square&logo=python&logoColor=e9d5ff)
-![SQL](https://img.shields.io/badge/SQL-%236d28d9?style=flat-square&logo=postgresql&logoColor=e9d5ff)
-![Java](https://img.shields.io/badge/Java-%236d28d9?style=flat-square&logo=java&logoColor=e9d5ff)
-![C](https://img.shields.io/badge/C-%236d28d9?style=flat-square&logo=c&logoColor=e9d5ff)
+![Python](https://img.shields.io/badge/Python-%230c2d6b?style=flat-square&logo=python&logoColor=79c0ff)
+![SQL](https://img.shields.io/badge/SQL-%230c2d6b?style=flat-square&logo=postgresql&logoColor=79c0ff)
+![Java](https://img.shields.io/badge/Java-%230c2d6b?style=flat-square&logo=coffeescript&logoColor=79c0ff)
+![C](https://img.shields.io/badge/C-%230c2d6b?style=flat-square&logo=c&logoColor=79c0ff)
 
 **[ dados & análise ]**
 
-![Pandas](https://img.shields.io/badge/Pandas-%234f46e5?style=flat-square&logo=pandas&logoColor=e0e7ff)
-![NumPy](https://img.shields.io/badge/NumPy-%234f46e5?style=flat-square&logo=numpy&logoColor=e0e7ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%234f46e5?style=flat-square&logo=plotly&logoColor=e0e7ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-%234f46e5?style=flat-square&logo=jupyter&logoColor=e0e7ff)
-![Power BI](https://img.shields.io/badge/Power%20BI-%234f46e5?style=flat-square&logo=powerbi&logoColor=e0e7ff)
+![Pandas](https://img.shields.io/badge/Pandas-%231f6feb?style=flat-square&logo=pandas&logoColor=cae8ff)
+![NumPy](https://img.shields.io/badge/NumPy-%231f6feb?style=flat-square&logo=numpy&logoColor=cae8ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%231f6feb?style=flat-square&logo=plotly&logoColor=cae8ff)
+![Jupyter](https://img.shields.io/badge/Jupyter-%231f6feb?style=flat-square&logo=jupyter&logoColor=cae8ff)
+![Power BI](https://img.shields.io/badge/Power%20BI-%231f6feb?style=flat-square&logo=powerbi&logoColor=cae8ff)
 
 **[ engenharia ]**
 
-![Git](https://img.shields.io/badge/Git-%230f172a?style=flat-square&logo=git&logoColor=818cf8)
-![GitHub](https://img.shields.io/badge/GitHub-%230f172a?style=flat-square&logo=github&logoColor=818cf8)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230f172a?style=flat-square&logo=visualstudiocode&logoColor=818cf8)
-![Linux](https://img.shields.io/badge/Linux-%230f172a?style=flat-square&logo=linux&logoColor=818cf8)
-![Docker](https://img.shields.io/badge/Docker-%230f172a?style=flat-square&logo=docker&logoColor=818cf8)
+![Git](https://img.shields.io/badge/Git-%230d1117?style=flat-square&logo=git&logoColor=58a6ff)
+![GitHub](https://img.shields.io/badge/GitHub-%230d1117?style=flat-square&logo=github&logoColor=58a6ff)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230d1117?style=flat-square&logo=visualstudiocode&logoColor=58a6ff)
+![Linux](https://img.shields.io/badge/Linux-%230d1117?style=flat-square&logo=linux&logoColor=58a6ff)
+![Docker](https://img.shields.io/badge/Docker-%230d1117?style=flat-square&logo=docker&logoColor=58a6ff)
 
 ---
 
@@ -65,7 +65,7 @@ joao = {
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&background=0a0a1a&border=6d28d9&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideLabels=818cf8&currStreakNum=e9d5ff&sideNums=a5b4fc&dates=4b5563)
+![Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&background=0d1117&border=1f6feb&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=1f6feb&currStreakNum=cae8ff&sideNums=79c0ff&dates=4a6b8a)
 
 </div>
 
@@ -75,18 +75,20 @@ joao = {
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Estudante+de+Eng.+Software+%40+UnB+%F0%9F%8E%93;Estagiário+de+Dados+%26+IA+%40+MDS+%7C+Brasília;Dashboards%2C+scripts%2C+análise+e+impacto+público.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58a6ff&center=true&vCenter=true&width=560&lines=Estudante+de+Eng.+Software+%40+UnB+%F0%9F%8E%93;Estagiário+de+Dados+%26+IA+%40+MDS+%7C+Brasília;Dashboards%2C+scripts%2C+análise+e+impacto+público.)
 
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234f46e5?style=for-the-badge&logo=linkedin&logoColor=e0e7ff)](https://linkedin.com/in/joaocarvalho-in)
-[![Gmail](https://img.shields.io/badge/Gmail-%23be185d?style=for-the-badge&logo=gmail&logoColor=fce7f3)](mailto:dev.joaocarvalho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%236d28d9?style=for-the-badge&logo=instagram&logoColor=e9d5ff)](https://instagram.com/joao.krvalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230c2d6b?style=for-the-badge&logo=linkedin&logoColor=79c0ff)](https://linkedin.com/in/joaocarvalho-in)
+[![Gmail](https://img.shields.io/badge/Gmail-%231f6feb?style=for-the-badge&logo=gmail&logoColor=cae8ff)](mailto:dev.joaocarvalho@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%230c2d6b?style=for-the-badge&logo=instagram&logoColor=79c0ff)](https://instagram.com/joao.krvalho)
+
 </div>
+
 <div align="center">
-     
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b00cc,50:3d0080,100:0a0a1a&height=100&section=footer)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0c2d6b,100:0d1117&height=100&section=footer)
 
 </div>
