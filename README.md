@@ -1,17 +1,17 @@
 <!-- ════════════════════════════════════════════════════════
      GitHub Profile — João Carvalho (@dev-joaocarvalho)
-     Estilo: Cyberpunk / Neon
+     Paleta: Azul → Roxo → Rosa
 ════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0029,50:1a0050,100:00ff88&height=200&text=João%20Carvalho&fontSize=48&fontColor=00ffcc&fontAlignY=40&desc=%3E_%20Machine%20Learning%20%7C%20AI%20%7C%20Problem%20Solving&descSize=16&descFontColor=aa00ff&descAlignY=60&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,40:1a0550,70:3d0080,100:8b00cc&height=200&text=João%20Carvalho&fontSize=48&fontColor=c084fc&fontAlignY=40&desc=%3E_%20Machine%20Learning%20%7C%20AI%20%7C%20Problem%20Solving&descSize=16&descFontColor=818cf8&descAlignY=60&animation=twinkling)
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=480&lines=ML+Engineer+%40+MDS+%7C+Brasília%2C+BR;Transformando+dados+em+impacto+real;print(%22Hello%2C+World!%22)+%3E+Hello%2C+Impact!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=ML+Engineer+%40+MDS+%7C+Brasília%2C+BR;Transformando+dados+em+impacto+real;print(%22Hello%2C+World!%22)+%3E+Hello%2C+Impact!)
 
 </div>
 
@@ -28,7 +28,7 @@ $ cat profile.json
   "org":      "MDS — Ministério do Desenvolvimento Social 🏛️",
   "location": "Brasília, DF — Brasil 🇧🇷",
   "focus":    ["Machine Learning", "Software Dev", "Problem Solving"],
-  "status":   "🟢 online — building something cool"
+  "status":   "🟣 online — building something cool"
 }
 ```
 
@@ -45,7 +45,7 @@ while True:
 ```
 
 > Apaixonado por tecnologia e dados. Atuo no **MDS** desenvolvendo soluções inteligentes
-> que afetam a vida real de milhões de brasileiros. Código limpo, impacto sujo de real.
+> que afetam a vida real de milhões de brasileiros. Código limpo, impacto real.
 
 ---
 
@@ -53,23 +53,23 @@ while True:
 
 **[ languages ]**
 
-![Python](https://img.shields.io/badge/Python-%2300ffcc?style=flat-square&logo=python&logoColor=0d0029)
-![SQL](https://img.shields.io/badge/SQL-%2300ffcc?style=flat-square&logo=postgresql&logoColor=0d0029)
-![Bash](https://img.shields.io/badge/Bash-%2300ffcc?style=flat-square&logo=gnubash&logoColor=0d0029)
+![Python](https://img.shields.io/badge/Python-%236d28d9?style=flat-square&logo=python&logoColor=e9d5ff)
+![SQL](https://img.shields.io/badge/SQL-%236d28d9?style=flat-square&logo=postgresql&logoColor=e9d5ff)
+![Bash](https://img.shields.io/badge/Bash-%236d28d9?style=flat-square&logo=gnubash&logoColor=e9d5ff)
 
 **[ ml / ai ]**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23aa00ff?style=flat-square&logo=scikitlearn&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-%23aa00ff?style=flat-square&logo=pandas&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/NumPy-%23aa00ff?style=flat-square&logo=numpy&logoColor=ffffff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23aa00ff?style=flat-square&logo=plotly&logoColor=ffffff)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%234f46e5?style=flat-square&logo=scikitlearn&logoColor=e0e7ff)
+![Pandas](https://img.shields.io/badge/Pandas-%234f46e5?style=flat-square&logo=pandas&logoColor=e0e7ff)
+![NumPy](https://img.shields.io/badge/NumPy-%234f46e5?style=flat-square&logo=numpy&logoColor=e0e7ff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%234f46e5?style=flat-square&logo=plotly&logoColor=e0e7ff)
 
 **[ tools ]**
 
-![Git](https://img.shields.io/badge/Git-%23ff007f?style=flat-square&logo=git&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-%23ff007f?style=flat-square&logo=docker&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23ff007f?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-%23ff007f?style=flat-square&logo=linux&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-%23be185d?style=flat-square&logo=git&logoColor=fce7f3)
+![Docker](https://img.shields.io/badge/Docker-%23be185d?style=flat-square&logo=docker&logoColor=fce7f3)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23be185d?style=flat-square&logo=visualstudiocode&logoColor=fce7f3)
+![Linux](https://img.shields.io/badge/Linux-%23be185d?style=flat-square&logo=linux&logoColor=fce7f3)
 
 ---
 
@@ -77,15 +77,15 @@ while True:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&theme=radical&bg_color=0d0029&border_color=aa00ff&icon_color=00ffcc&title_color=00ffcc&text_color=cc99ff&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&bg_color=0a0a1a&border_color=6d28d9&icon_color=a855f7&title_color=c084fc&text_color=a5b4fc&hide_border=false&count_private=true&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&theme=radical&bg_color=0d0029&border_color=aa00ff&title_color=00ffcc&text_color=cc99ff&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&bg_color=0a0a1a&border_color=6d28d9&title_color=c084fc&text_color=a5b4fc&hide_border=false&theme=tokyonight" />
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&theme=radical&background=0d0029&border=aa00ff&ring=00ffcc&fire=ff007f&currStreakLabel=00ffcc&sideLabels=aa00ff&currStreakNum=ffffff&sideNums=cc99ff&dates=666688)
+![Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&background=0a0a1a&border=6d28d9&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideLabels=818cf8&currStreakNum=e9d5ff&sideNums=a5b4fc&dates=4b5563)
 
 </div>
 
@@ -95,9 +95,9 @@ while True:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ffcc?style=for-the-badge&logo=linkedin&logoColor=0d0029)](https://linkedin.com/in/joaocarvalho-in)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ff007f?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:dev.joaocarvalho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23aa00ff?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/joao.krvalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234f46e5?style=for-the-badge&logo=linkedin&logoColor=e0e7ff)](https://linkedin.com/in/joaocarvalho-in)
+[![Gmail](https://img.shields.io/badge/Gmail-%23be185d?style=for-the-badge&logo=gmail&logoColor=fce7f3)](mailto:dev.joaocarvalho@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%236d28d9?style=for-the-badge&logo=instagram&logoColor=e9d5ff)](https://instagram.com/joao.krvalho)
 
 </div>
 
@@ -105,6 +105,6 @@ while True:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:aa00ff,100:0d0029&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:8b00cc,50:3d0080,100:0a0a1a&height=100&section=footer)
 
 </div>
