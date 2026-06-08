@@ -75,13 +75,6 @@ while True:
 
 ### `> github --stats`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&bg_color=0a0a1a&border_color=6d28d9&icon_color=a855f7&title_color=c084fc&text_color=a5b4fc&hide_border=false&count_private=true&theme=tokyonight" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&bg_color=0a0a1a&border_color=6d28d9&title_color=c084fc&text_color=a5b4fc&hide_border=false&theme=tokyonight" />
-
-</div>
 
 <div align="center">
 
