@@ -9,29 +9,6 @@
 
 </div>
 
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Estudante+de+Eng.+Software+%40+UnB+%F0%9F%8E%93;Estagiário+de+Dados+%26+IA+%40+MDS+%7C+Brasília;Dashboards%2C+scripts%2C+análise+e+impacto+público.)
-
-</div>
-
----
-
-```bash
-$ whoami
-> dev-joaocarvalho
-
-$ cat profile.json
-{
-  "name":     "João Carvalho",
-  "curso":    "Engenharia de Software — UnB 🎓",
-  "estagio":  "Dados & IA — SINAPSE / MDS 🏛️",
-  "location": "Brasília, DF — Brasil 🇧🇷",
-  "foco":     ["Análise de Dados", "Dashboards", "Scripts", "IA Aplicada"],
-  "status":   "🟣 aprendendo e entregando valor no setor público"
-}
-```
-
 ---
 
 ### `> about_me.py`
@@ -63,7 +40,6 @@ joao = {
 
 ![Python](https://img.shields.io/badge/Python-%236d28d9?style=flat-square&logo=python&logoColor=e9d5ff)
 ![SQL](https://img.shields.io/badge/SQL-%236d28d9?style=flat-square&logo=postgresql&logoColor=e9d5ff)
-![Bash](https://img.shields.io/badge/Bash-%236d28d9?style=flat-square&logo=gnubash&logoColor=e9d5ff)
 ![C](https://img.shields.io/badge/C-%236d28d9?style=flat-square&logo=c&logoColor=e9d5ff)
 
 **[ dados & análise ]**
@@ -73,11 +49,6 @@ joao = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%234f46e5?style=flat-square&logo=plotly&logoColor=e0e7ff)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%234f46e5?style=flat-square&logo=jupyter&logoColor=e0e7ff)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%234f46e5?style=flat-square&logo=powerbi&logoColor=e0e7ff)
-
-**[ ia & ml ]**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23be185d?style=flat-square&logo=scikitlearn&logoColor=fce7f3)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-%23be185d?style=flat-square&logo=huggingface&logoColor=fce7f3)
 
 **[ engenharia ]**
 
@@ -93,14 +64,6 @@ joao = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&bg_color=0a0a1a&border_color=6d28d9&icon_color=a855f7&title_color=c084fc&text_color=a5b4fc&hide_border=false&count_private=true&theme=tokyonight" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&bg_color=0a0a1a&border_color=6d28d9&title_color=c084fc&text_color=a5b4fc&hide_border=false&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
 ![Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&background=0a0a1a&border=6d28d9&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideLabels=818cf8&currStreakNum=e9d5ff&sideNums=a5b4fc&dates=4b5563)
 
 </div>
@@ -111,16 +74,18 @@ joao = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234f46e5?style=for-the-badge&logo=linkedin&logoColor=e0e7ff)](https://linkedin.com/in/joaocarvalho-in)
-[![Gmail](https://img.shields.io/badge/Gmail-%23be185d?style=for-the-badge&logo=gmail&logoColor=fce7f3)](mailto:dev.joaocarvalho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%236d28d9?style=for-the-badge&logo=instagram&logoColor=e9d5ff)](https://instagram.com/joao.krvalho)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Estudante+de+Eng.+Software+%40+UnB+%F0%9F%8E%93;Estagiário+de+Dados+%26+IA+%40+MDS+%7C+Brasília;Dashboards%2C+scripts%2C+análise+e+impacto+público.)
 
 </div>
 
----
-
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%234f46e5?style=for-the-badge&logo=linkedin&logoColor=e0e7ff)](https://linkedin.com/in/joaocarvalho-in)
+[![Gmail](https://img.shields.io/badge/Gmail-%23be185d?style=for-the-badge&logo=gmail&logoColor=fce7f3)](mailto:dev.joaocarvalho@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%236d28d9?style=for-the-badge&logo=instagram&logoColor=e9d5ff)](https://instagram.com/joao.krvalho)
+</div>
+<div align="center">
+     
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b00cc,50:3d0080,100:0a0a1a&height=100&section=footer)
 
 </div>
