@@ -1,94 +1,103 @@
 <!-- ════════════════════════════════════════════════════════
      GitHub Profile — João Carvalho (@dev-joaocarvalho)
-     Repositório: github.com/dev-joaocarvalho/dev-joaocarvalho
+     Estilo: Cyberpunk / Neon
 ════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=160&section=header&text=João%20Carvalho&fontSize=42&fontColor=e2e2e2&fontAlignY=38&desc=Machine%20Learning%20%7C%20Software%20Development%20%7C%20Problem%20Solving&descSize=15&descFontColor=777777&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0029,50:1a0050,100:00ff88&height=200&text=João%20Carvalho&fontSize=48&fontColor=00ffcc&fontAlignY=40&desc=%3E_%20Machine%20Learning%20%7C%20AI%20%7C%20Problem%20Solving&descSize=16&descFontColor=aa00ff&descAlignY=60&animation=twinkling)
+
+</div>
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FFCC&center=true&vCenter=true&width=480&lines=ML+Engineer+%40+MDS+%7C+Brasília%2C+BR;Transformando+dados+em+impacto+real;print(%22Hello%2C+World!%22)+%3E+Hello%2C+Impact!)
 
 </div>
 
 ---
 
-```python
-class JoãoCarvalho:
-    def __init__(self):
-        self.username   = "dev-joaocarvalho"
-        self.location   = "Brasília, DF — Brasil 🇧🇷"
-        self.role       = "ML Engineer & Software Developer"
-        self.org        = "MDS — Ministério do Desenvolvimento Social"
-        self.focus      = ["Machine Learning", "Software Development", "Problem Solving"]
-        self.languages  = ["Python", "SQL", "..."]
-        self.currently  = "construindo soluções com dados no setor público"
+```bash
+$ whoami
+> dev-joaocarvalho
 
-    def __repr__(self):
-        return "Transformando dados em políticas públicas melhores."
+$ cat profile.json
+{
+  "name":     "João Carvalho",
+  "role":     "ML Engineer & Software Developer",
+  "org":      "MDS — Ministério do Desenvolvimento Social 🏛️",
+  "location": "Brasília, DF — Brasil 🇧🇷",
+  "focus":    ["Machine Learning", "Software Dev", "Problem Solving"],
+  "status":   "🟢 online — building something cool"
+}
 ```
 
 ---
 
-### Sobre mim
+### `> about_me.py`
 
-Desenvolvedor apaixonado por tecnologia, dados e impacto real. Atuo no **MDS** aplicando Machine Learning e desenvolvimento de software para melhorar políticas públicas e a vida de pessoas.
+```python
+while True:
+    learn("Machine Learning")
+    build("impacto no setor público")
+    solve("problemas difíceis com dados")
+    repeat()
+```
 
-- 🤖 Focado em ML aplicado e automação inteligente
-- 🏛️ Trabalho com dados no setor público federal
-- 🧩 Gosto de resolver problemas difíceis com código limpo
-- 📍 Brasília, DF — onde tecnologia encontra política pública
-
----
-
-### Stack Técnica
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=c8d8e8)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=c8d8e8)
-![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=flat-square&logo=gnubash&logoColor=c8d8e8)
-
-**Machine Learning & IA**
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=c8d8e8)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=c8d8e8)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=c8d8e8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=flat-square&logo=plotly&logoColor=c8d8e8)
-
-**Dev & Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=flat-square&logo=git&logoColor=c8d8e8)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=c8d8e8)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=flat-square&logo=visualstudiocode&logoColor=c8d8e8)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=flat-square&logo=linux&logoColor=c8d8e8)
-![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=c8d8e8)
+> Apaixonado por tecnologia e dados. Atuo no **MDS** desenvolvendo soluções inteligentes
+> que afetam a vida real de milhões de brasileiros. Código limpo, impacto sujo de real.
 
 ---
 
-### GitHub Stats
+### `> stack --list`
+
+**[ languages ]**
+
+![Python](https://img.shields.io/badge/Python-%2300ffcc?style=flat-square&logo=python&logoColor=0d0029)
+![SQL](https://img.shields.io/badge/SQL-%2300ffcc?style=flat-square&logo=postgresql&logoColor=0d0029)
+![Bash](https://img.shields.io/badge/Bash-%2300ffcc?style=flat-square&logo=gnubash&logoColor=0d0029)
+
+**[ ml / ai ]**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23aa00ff?style=flat-square&logo=scikitlearn&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/Pandas-%23aa00ff?style=flat-square&logo=pandas&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/NumPy-%23aa00ff?style=flat-square&logo=numpy&logoColor=ffffff)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23aa00ff?style=flat-square&logo=plotly&logoColor=ffffff)
+
+**[ tools ]**
+
+![Git](https://img.shields.io/badge/Git-%23ff007f?style=flat-square&logo=git&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-%23ff007f?style=flat-square&logo=docker&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23ff007f?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-%23ff007f?style=flat-square&logo=linux&logoColor=ffffff)
+
+---
+
+### `> github --stats`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=2a2a3a&icon_color=778899&title_color=e2e2e2&text_color=999999&hide_border=false&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dev-joaocarvalho&show_icons=true&theme=radical&bg_color=0d0029&border_color=aa00ff&icon_color=00ffcc&title_color=00ffcc&text_color=cc99ff&hide_border=false&count_private=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&theme=dark&bg_color=0d0d0d&border_color=2a2a3a&title_color=e2e2e2&text_color=999999&hide_border=false&langs_count=6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-joaocarvalho&layout=compact&theme=radical&bg_color=0d0029&border_color=aa00ff&title_color=00ffcc&text_color=cc99ff&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&theme=dark&background=0d0d0d&border=2a2a3a&ring=555566&fire=999999&currStreakLabel=e2e2e2&sideLabels=778899&currStreakNum=e2e2e2&sideNums=aaaaaa&dates=555555)
+![Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&theme=radical&background=0d0029&border=aa00ff&ring=00ffcc&fire=ff007f&currStreakLabel=00ffcc&sideLabels=aa00ff&currStreakNum=ffffff&sideNums=cc99ff&dates=666688)
 
 </div>
 
 ---
 
-### Conecte-se
+### `> connect --social`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=c8d8e8)](https://linkedin.com/in/joaocarvalho-in)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=c8d8e8)](mailto:dev.joaocarvalho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=c8d8e8)](https://instagram.com/joao.krvalho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300ffcc?style=for-the-badge&logo=linkedin&logoColor=0d0029)](https://linkedin.com/in/joaocarvalho-in)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ff007f?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:dev.joaocarvalho@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23aa00ff?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://instagram.com/joao.krvalho)
 
 </div>
 
@@ -96,6 +105,6 @@ Desenvolvedor apaixonado por tecnologia, dados e impacto real. Atuo no **MDS** a
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:00ff88,50:aa00ff,100:0d0029&height=100&section=footer)
 
 </div>
