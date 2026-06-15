@@ -61,16 +61,6 @@ joao = {
 
 ---
 
-### `> github --stats`
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=dev-joaocarvalho&background=0d1117&border=1f6feb&ring=58a6ff&fire=79c0ff&currStreakLabel=58a6ff&sideLabels=1f6feb&currStreakNum=cae8ff&sideNums=79c0ff&dates=4a6b8a)
-
-</div>
-
----
-
 ### `> connect --social`
 
 <div align="center">
