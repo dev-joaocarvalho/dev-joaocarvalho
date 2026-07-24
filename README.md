@@ -28,49 +28,55 @@ joao = {
 }
 ```
 
----
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/linguagens-darkblue?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dados & análise-darkblue?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/engenharia-darkblue?style=for-the-badge" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/conecte--se-darkblue?style=for-the-badge" />
+    </td>
+  </tr>
 
-### `> stack --list`
-
-**[ linguagens ]**
-
-![Python](https://img.shields.io/badge/Python-%230c2d6b?style=flat-square&logo=python&logoColor=79c0ff)
-![SQL](https://img.shields.io/badge/SQL-%230c2d6b?style=flat-square&logo=postgresql&logoColor=79c0ff)
-![Java](https://img.shields.io/badge/Java-%230c2d6b?style=flat-square&logo=coffeescript&logoColor=79c0ff)
-![C](https://img.shields.io/badge/C-%230c2d6b?style=flat-square&logo=c&logoColor=79c0ff)
-
-**[ dados & análise ]**
-
-![Pandas](https://img.shields.io/badge/Pandas-%231f6feb?style=flat-square&logo=pandas&logoColor=cae8ff)
-![NumPy](https://img.shields.io/badge/NumPy-%231f6feb?style=flat-square&logo=numpy&logoColor=cae8ff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%231f6feb?style=flat-square&logo=plotly&logoColor=cae8ff)
-![Jupyter](https://img.shields.io/badge/Jupyter-%231f6feb?style=flat-square&logo=jupyter&logoColor=cae8ff)
-![Power BI](https://img.shields.io/badge/Power%20BI-%231f6feb?style=flat-square&logo=powerbi&logoColor=cae8ff)
-
-**[ engenharia ]**
-
-![Git](https://img.shields.io/badge/Git-%230d1117?style=flat-square&logo=git&logoColor=58a6ff)
-![GitHub](https://img.shields.io/badge/GitHub-%230d1117?style=flat-square&logo=github&logoColor=58a6ff)
-![VS Code](https://img.shields.io/badge/VS%20Code-%230d1117?style=flat-square&logo=visualstudiocode&logoColor=58a6ff)
-![Linux](https://img.shields.io/badge/Linux-%230d1117?style=flat-square&logo=linux&logoColor=58a6ff)
-![Docker](https://img.shields.io/badge/Docker-%230d1117?style=flat-square&logo=docker&logoColor=58a6ff)
-
----
-
-### `> connect --social`
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58a6ff&center=true&vCenter=true&width=560&lines=Estudante+de+Eng.+Software+%40+UnB+%F0%9F%8E%93;Estagiário+de+Dados+%26+IA+%40+MDS+%7C+Brasília;Dashboards%2C+scripts%2C+análise+e+impacto+público.)
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-%230c2d6b?style=for-the-badge&logo=python&logoColor=79c0ff" alt="Python" /></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/SQL-%231f6feb?style=for-the-badge&logo=postgresql&logoColor=cae8ff" alt="SQL" /></a>
+      <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-%230c2d6b?style=for-the-badge&logo=openjdk&logoColor=79c0ff" alt="Java" /></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-%231f6feb?style=for-the-badge&logo=typescript&logoColor=cae8ff" alt="TypeScript" /></a>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-%230c2d6b?style=for-the-badge&logo=c&logoColor=79c0ff" alt="C" /></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-%230c2d6b?style=for-the-badge&logo=pandas&logoColor=79c0ff" alt="Pandas" /></a>
+      <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-%231f6feb?style=for-the-badge&logo=numpy&logoColor=cae8ff" alt="NumPy" /></a>
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-%230c2d6b?style=for-the-badge&logo=plotly&logoColor=79c0ff" alt="Matplotlib" /></a>
+      <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Jupyter-%231f6feb?style=for-the-badge&logo=jupyter&logoColor=cae8ff" alt="Jupyter" /></a>
+      <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Power%20BI-%230c2d6b?style=for-the-badge&logo=powerbi&logoColor=79c0ff" alt="Power BI" /></a>
+      <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tableau-%231f6feb?style=for-the-badge&logo=tableau&logoColor=cae8ff" alt="Tableau" /></a>
+      <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-%230c2d6b?style=for-the-badge&logo=tensorflow&logoColor=79c0ff" alt="TensorFlow" /></a>
+      <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-%231f6feb?style=for-the-badge&logo=scikitlearn&logoColor=cae8ff" alt="Scikit-learn" /></a>
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PyTorch-%230c2d6b?style=for-the-badge&logo=pytorch&logoColor=79c0ff" alt="PyTorch" /></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-%230c2d6b?style=for-the-badge&logo=git&logoColor=79c0ff" alt="Git" /></a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-%231f6feb?style=for-the-badge&logo=github&logoColor=cae8ff" alt="GitHub" /></a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-%230c2d6b?style=for-the-badge&logo=visualstudiocode&logoColor=79c0ff" alt="VS Code" /></a>
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-%231f6feb?style=for-the-badge&logo=linux&logoColor=cae8ff" alt="Linux" /></a>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-%230c2d6b?style=for-the-badge&logo=docker&logoColor=79c0ff" alt="Docker" /></a>
+      <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/DBeaver-%231f6feb?style=for-the-badge&logo=dbeaver&logoColor=cae8ff" alt="DBeaver" /></a>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://linkedin.com/in/joaocarvalho-in" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230c2d6b?style=for-the-badge&logo=linkedin&logoColor=79c0ff" alt="LinkedIn" /></a>
+      <a href="mailto:dev.joaocarvalho@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-%231f6feb?style=for-the-badge&logo=gmail&logoColor=cae8ff" alt="Gmail" /></a>
+      <a href="https://instagram.com/joao.krvalho" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-%230c2d6b?style=for-the-badge&logo=instagram&logoColor=79c0ff" alt="Instagram" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230c2d6b?style=for-the-badge&logo=linkedin&logoColor=79c0ff)](https://linkedin.com/in/joaocarvalho-in)
-[![Gmail](https://img.shields.io/badge/Gmail-%231f6feb?style=for-the-badge&logo=gmail&logoColor=cae8ff)](mailto:dev.joaocarvalho@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%230c2d6b?style=for-the-badge&logo=instagram&logoColor=79c0ff)](https://instagram.com/joao.krvalho)
-
-</div>
-
-
