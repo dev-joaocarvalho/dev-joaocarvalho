@@ -28,10 +28,6 @@ joao = {
 }
 ```
 
-> Estudante da **UnB** estagiando na **SINAPSE/MDS** — onde ajudo a transformar dados
-> do governo em dashboards, relatórios e análises que apoiam decisões de política pública.
-> Ainda no início da carreira, mas já com código rodando.
-
 ---
 
 ### `> stack --list`
