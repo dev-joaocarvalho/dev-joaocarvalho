@@ -77,8 +77,4 @@ joao = {
 
 </div>
 
-<div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0c2d6b,100:0d1117&height=100&section=footer)
-
-</div>
